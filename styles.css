@@ -1,0 +1,60 @@
+body{
+    max-width: 100%;
+    margin: auto;
+    text-align: center;
+    background-color: lavender;
+    
+}
+
+li button {
+    margin-left: 10px;
+    margin-bottom: 10px;
+}
+
+
+header {
+    background-color: lightcoral;
+    height: auto;
+    padding: 20px;
+    margin: auto;
+    margin-bottom: 10px;
+    width: 100%;
+    border-bottom: 2px solid black;
+}
+
+h1 {
+    font-family: "Dancing Script", cursive;
+    font-size: 50px;
+
+}
+
+p {
+  font-family: "Dancing Script", cursive;
+  font-optical-sizing: auto;
+  font-weight: 700;
+  font-size: 25px;
+  font-style: normal;
+}
+
+ul {
+    list-style-type: disc;
+    padding-left: 20px;
+    list-style-position: inside;
+    display: inline-block;
+    border: 1px solid black;
+    padding: 20px;
+}
+
+
+#shoppingForm {
+    margin-bottom: 15px;
+    padding: 10px;
+    
+}
+
+
+
+
+
+
+
